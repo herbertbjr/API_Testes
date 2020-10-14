@@ -1,0 +1,29 @@
+Plano de testes
+===============
+
+ContratosController
+
+Get
+	OkResult
+	BadRequest
+	MatchResult
+
+Get(int Id)
+	OkResult
+	NotFound
+	BadRequest
+	MatchResult
+
+Post(object)
+	CreatedResult
+	BadRequest
+	MatchResult
+
+Put(id, Object)
+	OkResult
+	BadRequest
+
+Delete(object)
+	OkResult
+	NotFound
+	BadRequest

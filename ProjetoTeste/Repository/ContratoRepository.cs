@@ -1,5 +1,6 @@
 ﻿using ProjetoTeste.Context;
 using ProjetoTeste.Models;
+using ProjetoTeste.Pagination;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,11 @@ namespace ProjetoTeste.Repository
     {
         public ContratoRepository(AppDbContext contexto) : base(contexto)
         {
+        }
+
+        public IEnumerable<Contrato> GetContratos()
+        {
+            return Get().ToList();
         }
     }
 }

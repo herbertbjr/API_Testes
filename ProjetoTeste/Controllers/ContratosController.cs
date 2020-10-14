@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using ProjetoTeste.DTOs;
 using ProjetoTeste.DTOs.Mappings;
 using ProjetoTeste.Models;
+using ProjetoTeste.Pagination;
 using ProjetoTeste.Repository;
 
 namespace ProjetoTeste.Controllers
@@ -26,12 +27,19 @@ namespace ProjetoTeste.Controllers
 
         // GET: api/Contratos
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<ContratoDTO>>> Get()
+        public ActionResult<IEnumerable<ContratoDTO>> Get()
         {
-            var contratos = await _uof.ContratoRepository.Get().ToListAsync();
+            var contratos = _uof.ContratoRepository.GetContratos().ToList();
             var contratosDTO = _mapper.Map<List<ContratoDTO>>(contratos);
             return contratosDTO;
         }
+
+        //public ActionResult<IEnumerable<ContratoDTO>> Get([FromQuery] ContratosParameters contratosParameters)
+        //{
+        //    var contratos = _uof.ContratoRepository.GetContratos(contratosParameters).ToList();
+        //    var contratosDTO = _mapper.Map<List<ContratoDTO>>(contratos);
+        //    return contratosDTO;
+        //}
 
         // GET: api/Contratos/5
         [HttpGet("{id}", Name = "ObterContrato")]

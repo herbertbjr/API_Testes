@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {}
+    "D:\\ProjetoTeste2\\ProjetoTeste\\ProjetoTeste.csproj": {}
   },
   "projects": {
-    "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
+    "D:\\ProjetoTeste2\\ProjetoTeste\\ProjetoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectUniqueName": "D:\\ProjetoTeste2\\ProjetoTeste\\ProjetoTeste.csproj",
         "projectName": "ProjetoTeste",
-        "projectPath": "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectPath": "D:\\ProjetoTeste2\\ProjetoTeste\\ProjetoTeste.csproj",
         "packagesPath": "C:\\Users\\hbrju\\.nuget\\packages\\",
-        "outputPath": "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\obj\\",
+        "outputPath": "D:\\ProjetoTeste2\\ProjetoTeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

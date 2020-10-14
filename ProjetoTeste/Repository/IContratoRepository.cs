@@ -1,4 +1,5 @@
 ﻿using ProjetoTeste.Models;
+using ProjetoTeste.Pagination;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,5 +9,6 @@ namespace ProjetoTeste.Repository
 {
     public interface IContratoRepository : IRepository<Contrato>
     {
+        IEnumerable<Contrato> GetContratos();
     }
 }

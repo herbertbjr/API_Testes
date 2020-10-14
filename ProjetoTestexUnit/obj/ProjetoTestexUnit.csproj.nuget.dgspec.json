@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTestexUnit\\ProjetoTestexUnit.csproj": {}
+    "D:\\ProjetoTeste2\\ProjetoTestexUnit\\ProjetoTestexUnit.csproj": {}
   },
   "projects": {
-    "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTestexUnit\\ProjetoTestexUnit.csproj": {
+    "D:\\ProjetoTeste2\\ProjetoTestexUnit\\ProjetoTestexUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTestexUnit\\ProjetoTestexUnit.csproj",
+        "projectUniqueName": "D:\\ProjetoTeste2\\ProjetoTestexUnit\\ProjetoTestexUnit.csproj",
         "projectName": "ProjetoTestexUnit",
-        "projectPath": "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTestexUnit\\ProjetoTestexUnit.csproj",
+        "projectPath": "D:\\ProjetoTeste2\\ProjetoTestexUnit\\ProjetoTestexUnit.csproj",
         "packagesPath": "C:\\Users\\hbrju\\.nuget\\packages\\",
-        "outputPath": "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTestexUnit\\obj\\",
+        "outputPath": "D:\\ProjetoTeste2\\ProjetoTestexUnit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
-                "projectPath": "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj"
+              "D:\\ProjetoTeste2\\ProjetoTeste\\ProjetoTeste.csproj": {
+                "projectPath": "D:\\ProjetoTeste2\\ProjetoTeste\\ProjetoTeste.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
+    "D:\\ProjetoTeste2\\ProjetoTeste\\ProjetoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectUniqueName": "D:\\ProjetoTeste2\\ProjetoTeste\\ProjetoTeste.csproj",
         "projectName": "ProjetoTeste",
-        "projectPath": "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectPath": "D:\\ProjetoTeste2\\ProjetoTeste\\ProjetoTeste.csproj",
         "packagesPath": "C:\\Users\\hbrju\\.nuget\\packages\\",
-        "outputPath": "D:\\API_ASPNETCORE3\\ProjetoTeste\\ProjetoTeste\\obj\\",
+        "outputPath": "D:\\ProjetoTeste2\\ProjetoTeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
