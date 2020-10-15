@@ -4,20 +4,20 @@ Plano de testes
 ContratosController
 
 Get
-	OkResult
-	BadRequest
-	MatchResult
+	OkResult = OK
+	BadRequest = OK
+	MatchResult = OK
 
 Get(int Id)
-	OkResult
-	NotFound
-	BadRequest
-	MatchResult
+	OkResult = OK
+	NotFound = OK
+	BadRequest = OK
+	MatchResult = OK
 
 Post(object)
-	CreatedResult
-	BadRequest
-	MatchResult
+	CreatedResult = 
+	BadRequest = 
+	MatchResult = 
 
 Put(id, Object)
 	OkResult

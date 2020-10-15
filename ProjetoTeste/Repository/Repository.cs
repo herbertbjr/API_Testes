@@ -22,9 +22,9 @@ namespace ProjetoTeste.Repository
             return _context.Set<T>().AsNoTracking();
         }
 
-        public async Task<T> GetById(Expression<Func<T, bool>> predicate)
+        public T GetById(Expression<Func<T, bool>> predicate)
         {
-            return await _context.Set<T>().SingleOrDefaultAsync(predicate);
+            return _context.Set<T>().SingleOrDefault(predicate);
         }
 
         public void Add(T entity)

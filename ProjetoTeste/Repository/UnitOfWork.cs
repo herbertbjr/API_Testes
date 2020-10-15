@@ -25,9 +25,9 @@ namespace ProjetoTeste.Repository
             }
         }
 
-        public async Task Commit()
+        public void Commit()
         {
-            await _context.SaveChangesAsync();
+            _context.SaveChanges();
         }
 
         public void Dispose()

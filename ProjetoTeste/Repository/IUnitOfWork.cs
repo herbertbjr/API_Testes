@@ -5,6 +5,6 @@ namespace ProjetoTeste.Repository
     public interface IUnitOfWork
     {
         IContratoRepository ContratoRepository { get; }
-        Task Commit();
+        void Commit();
     }
 }

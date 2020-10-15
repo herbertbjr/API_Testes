@@ -16,6 +16,7 @@ using Newtonsoft.Json;
 using ProjetoTeste.Context;
 using ProjetoTeste.Repository;
 using AutoMapper;
+using Microsoft.FeatureManagement;
 
 namespace ProjetoTeste
 {
@@ -65,6 +66,8 @@ namespace ProjetoTeste
                 });
             });
 
+            services.AddMemoryCache();
+            services.AddFeatureManagement();
             services.AddControllers()
                 .AddNewtonsoftJson();
         }

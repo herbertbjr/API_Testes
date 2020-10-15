@@ -315,15 +315,9 @@ D:\ProjetoTeste2\ProjetoTeste\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_
 D:\ProjetoTeste2\ProjetoTeste\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 D:\ProjetoTeste2\ProjetoTeste\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\ProjetoTeste2\ProjetoTeste\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\ProjetoTeste2\ProjetoTeste\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-D:\ProjetoTeste2\ProjetoTeste\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\ProjetoTeste2\ProjetoTeste\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csprojAssemblyReference.cache
 D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfoInputs.cache
 D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfo.cs
-D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csproj.CoreCompileInputs.cache
-D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.MvcApplicationPartsAssemblyInfo.cs
-D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.MvcApplicationPartsAssemblyInfo.cache
 D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.RazorTargetAssemblyInfo.cache
 D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csproj.CopyComplete
 D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoTeste.StaticWebAssets.Manifest.cache
@@ -331,3 +325,10 @@ D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoTes
 D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.dll
 D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.pdb
 D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.genruntimeconfig.cache
+D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csprojAssemblyReference.cache
+D:\ProjetoTeste2\ProjetoTeste\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ProjetoTeste2\ProjetoTeste\bin\Debug\netcoreapp3.1\Microsoft.FeatureManagement.dll
+D:\ProjetoTeste2\ProjetoTeste\bin\Debug\netcoreapp3.1\Microsoft.FeatureManagement.AspNetCore.dll
+D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csproj.CoreCompileInputs.cache
+D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjetoTeste2\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.MvcApplicationPartsAssemblyInfo.cache
